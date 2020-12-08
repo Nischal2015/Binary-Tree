@@ -11,3 +11,5 @@ Directions for use in Linux:-
 6. Execution step:- ./sfml-app
 
 Enjoy the program.
+
+To learn more about SFML visit this site:- https://www.sfml-dev.org/learn.php
